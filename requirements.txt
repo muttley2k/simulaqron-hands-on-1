@@ -1,2 +1,9 @@
+numpy
+scipy
+twisted
+networkx
+click
+daemons
+netqasm
 service_identity
 simulaqron
